@@ -10,3 +10,7 @@
 # Oh my posh
 . "$HOME\.config\powershell\oh-my-posh.ps1"
 ```
+
+## Credit
+
+- The theme is from [Rémi LACHAUX](https://github.com/lachaux-remi/oh-my-posh).
