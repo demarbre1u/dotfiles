@@ -16,6 +16,6 @@ Then in `$PROFILE.CurrentUserCurrentHost` add the following line :
 . "$HOME\.config\powershell\user_profile.ps1"
 ```
 
-- [Aliases](/aliases/README.md) configs
-- [Oh my posh](/oh-my-posh/README.md) configs
-- [Modules](/modules/README.md) configs
+- [Aliases](./aliases/README.md) configs
+- [Oh my posh](./oh-my-posh/README.md) configs
+- [Modules](./modules/README.md) configs

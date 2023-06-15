@@ -6,9 +6,9 @@
 
 ## Contents
 
-- [Tmux config](/tmux/README.md)
-- [Fish config](/fish/README.md)
-- [Nano config](/nano/README.md)
+- [Tmux config](./tmux/README.md)
+- [Fish config](./fish/README.md)
+- [Nano config](./nano/README.md)
 
 ## Shell setup (for macOS)
 
