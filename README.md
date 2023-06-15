@@ -4,7 +4,7 @@ A repository containing the dotfiles I use.
 
 ## Windows
 
-- [Windows Terminal](https://github.com/lachaux-remi/oh-my-posh)
+- [Windows Terminal](/windows/windows-terminal/README.md)
 
 ## Mac OS
 
